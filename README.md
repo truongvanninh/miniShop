@@ -1,5 +1,7 @@
 # huan0902tets
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/truongvanninh/miniShop.svg)](https://greenkeeper.io/)
+
 > Phien ban kiem tra truoc khi vao project 
 
 ## Build Setup
